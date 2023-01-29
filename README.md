@@ -44,7 +44,8 @@ senza alterarne la funzionalità.
 |[**Stego Magic**](https://www.softpedia.com/get/Security/Encrypting/StegoMagic.shtml)|**Un software commerciale che consente di nascondere i file all'interno di file immagine, audio e video, e di proteggere i dati con la crittografia.**|
 |[**QuickStego**](http://quickcrypto.com/free-steganography-software.html)|**Un software commerciale per nascondere messaggi all'interno di immagini.**|
 |[**Stegsolve**](https://wiki.bi0s.in/steganography/stegsolve/)|**Viene utilizzato per analizzare le immagini su diversi piani togliendo parti dell'immagine.**|
-|[**stegoveritas**](https://wiki.bi0s.in/steganography/stegoveritas/)|**È uno strumento di steganografia basato su Python utilizzato per fornire varie informazioni su un particolare file stego e stampare tutti i dati incorporati al suo interno.**|
+|[**Stegoveritas**](https://wiki.bi0s.in/steganography/stegoveritas/)|**È uno strumento di steganografia basato su Python utilizzato per fornire varie informazioni su un particolare file stego e stampare tutti i dati incorporati al suo interno.**|
+|[**Stego-Tricks**](https://book.hacktricks.xyz/crypto-and-stego/stego-tricks)|**Serie di Tools per la Steganografia**|
 
 **OpenStego**
 ![Immagine3](https://user-images.githubusercontent.com/98583912/215270417-f2541ae2-11d2-460c-bb20-cbd64d5bfc7c.gif)
