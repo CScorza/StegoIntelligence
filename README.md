@@ -47,6 +47,8 @@ senza alterarne la funzionalità.
 |[**Stegoveritas**](https://wiki.bi0s.in/steganography/stegoveritas/)|**È uno strumento di steganografia basato su Python utilizzato per fornire varie informazioni su un particolare file stego e stampare tutti i dati incorporati al suo interno.**|
 |[**Stego-Tricks**](https://book.hacktricks.xyz/crypto-and-stego/stego-tricks)|**Serie di Tools per la Steganografia**|
 
-**OpenStego**
-![Immagine3](https://user-images.githubusercontent.com/98583912/215270417-f2541ae2-11d2-460c-bb20-cbd64d5bfc7c.gif)
+**Esempio**
+
+![Immagine1](https://user-images.githubusercontent.com/98583912/215355971-5aee0c86-022b-4366-9bc9-a1a68815ba3b.gif)
+
 
